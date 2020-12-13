@@ -78,8 +78,3 @@ boxplot(airquality$Solar.R)
 boxplot(airquality[,0:4], Main='mulitple Box Plots')
 
 
-#Homework
-
-#use quakes database and do the things we did today and also, find SD, variance, skewness, Density plot
-
-
